@@ -1,0 +1,9 @@
+# Ignore editor and runner settings
+.cph/
+.vscode/
+
+# Ignore compiled applications and executables
+*.exe
+
+# Ignore temporary runner files
+tempCodeRunnerFile*
